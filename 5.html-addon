@@ -1,0 +1,7 @@
+<form action="/action.php" method="post">
+    <label for="Name">Name:</label>
+    <input type="text" name="Name" id="Name" placeholder="Name" minlength="3" maxlength="10" required> 
+    <br 
+    /> 
+<input type="Submit">
+</form>
